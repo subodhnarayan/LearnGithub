@@ -9,4 +9,10 @@ then
 look in left side in vs code branch notification will be there
 when you click there you will see there commit message in this
 
-write commint message and after writing you will see 
+write commint message and after writing you will see blank 
+there you have to
+-- Keep the repository name with which you want to push in github
+
+--after that selection of making the git repository public or private will come 
+--here in between github login verification will occur.
+select as your choice and then fill click i will create the repository in github
