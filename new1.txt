@@ -1,0 +1,9 @@
+First up all create the folder and
+then do all the you file thing
+then 
+-git init
+-git status   // here red will seen as not added 
+-git add .
+-git status   //after added here green will seen
+
+
