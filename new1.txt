@@ -6,4 +6,7 @@ then
 -git add .
 -git status   //after added here green will seen
 
+look in left side in vs code branch notification will be there
+when you click there you will see there commit message in this
 
+write commint message and after writing you will see 
